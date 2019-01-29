@@ -1,1 +1,1 @@
-Android export of the [a Pong Unity Game](https://github.com/LuisReyes98/PlatziPong)
+Android export of [a Pong Unity Game](https://github.com/LuisReyes98/PlatziPong)
